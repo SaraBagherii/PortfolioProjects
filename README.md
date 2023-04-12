@@ -13,13 +13,12 @@ The purpose of these SQL queries is to provide insights into various aspects of 
 ## Dataset
 
  using open-source data from the "Our World in Data".
- Data time:  From 01-Jan-2020 to 30-Apr-2021
+ Data time:  From 01-Jan-2020 to 30-Apr-2021.
 Link to dataset: https://ourworldindata.org/covid-deaths
  
 
 
 ## Details
-- selects all columns from the "CovidDeaths" table and orders the results.
 
 - calculates the percentage of deaths among confirmed cases in Romania, ordered by location and date.
 
