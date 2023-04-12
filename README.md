@@ -7,10 +7,7 @@ The pandemic has highlighted the need for greater investment in healthcare syste
 and has forced people around the world to change the way they live their daily lives.
 In the midst of the COVID-19 pandemic, data analysis has become a crucial tool for understanding the spread and impact of the virus.<br /> 
 The purpose of these SQL queries is to provide insights into various aspects of this pandemic.
-the maximum  values of total cases, total deaths, and the percentage of deaths to cases for Romania during the priod of dataset is equal orderly : 1055265
-9916
-6.61
-and and the minimum values of total cases, total deaths, and the percentage of deaths to cases for Romania during the priod of dataset is equal orderly :
+Out of the 150,574,977 confirmed cases of COVID-19 worldwide, 3,180,206 people have died from the virus.Out of the total number of confirmed COVID-19 cases worldwide, which has reached 150,574,977, the death percentage is 2.11%. In other words, for every 100 people who contracted the virus, an average of 2 of them lost their lives.
 
 
 
