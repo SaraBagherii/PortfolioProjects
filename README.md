@@ -5,18 +5,20 @@
 The COVID-19 pandemic has been a global game changer, affecting every aspect of our lives. 
 The pandemic has highlighted the need for greater investment in healthcare systems, 
 and has forced people around the world to change the way they live their daily lives.
-In the midst of the COVID-19 pandemic, data analysis has become a crucial tool for understanding the spread and impact of the virus.
+In the midst of the COVID-19 pandemic, data analysis has become a crucial tool for understanding the spread and impact of the virus.<br /> 
 The purpose of these SQL queries is to provide insights into various aspects of this pandemic.
+the maximum  values of total cases, total deaths, and the percentage of deaths to cases for Romania during the priod of dataset is equal orderly : 1055265
+9916
+6.61
+and and the minimum values of total cases, total deaths, and the percentage of deaths to cases for Romania during the priod of dataset is equal orderly :
 
 
 
 ## Dataset
 
- using open-source data from the "Our World in Data".
- Data time:  From 01-Jan-2020 to 30-Apr-2021.
+using open-source data from the "Our World in Data".
+Data time:  From 01-Jan-2020 to 30-Apr-2021.
 Link to dataset: https://ourworldindata.org/covid-deaths
- 
-
 
 ## Details
 
