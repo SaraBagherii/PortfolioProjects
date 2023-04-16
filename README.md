@@ -1,5 +1,7 @@
-# <The COVID-19 Pandemic: A Global Game Changer>
+## The COVID-19 Pandemic: A Global Game Changer
 
+
+![alt text](https://github.com/SaraBagherii/SaraBagherii.github.io/blob/main/images/pic05.jpg)
 ## Description
 
 The COVID-19 pandemic has been a global game changer, affecting every aspect of our lives. 
